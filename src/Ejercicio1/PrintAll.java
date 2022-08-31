@@ -1,4 +1,4 @@
-package PrintData;
+package Ejercicio1;
 
 public class PrintAll {
     public static void main(String[] args) {
