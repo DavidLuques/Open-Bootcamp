@@ -34,6 +34,7 @@ public class PrintAll {
         System.out.println(verdad);
         System.out.println(letra);
 
+
         //realizo el casteo
         System.out.println(((Object)num2).getClass().getSimpleName());
         System.out.println(numero8.getClass().getSimpleName());
