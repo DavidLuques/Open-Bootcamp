@@ -18,9 +18,6 @@ public class SmartDevice {
          this.screen=screen;
     }
 
-
-
-
     public void setLifeExpectancy(double lifeExpectancy) {
     this.lifeExpectancy = lifeExpectancy;
     }
